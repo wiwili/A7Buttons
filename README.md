@@ -1,7 +1,6 @@
-# Magisk Installer
+# Magisk - Axon 7 Button Swapper
 
-**Update `README.md` if you want to submit your module to the online repo!**
+**Made for personal use. Use at your own risk.**
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
-
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+Created with kevte89's files from XDA found [here](https://forum.xda-developers.com/axon-7/themes/extras-add-ons-lineageos-15-1-t3800443)
+Switches the back and recent button on LineageOS 15.1 for ZTE Axon 7. Install with Magisk Manager.

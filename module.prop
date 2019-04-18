@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=axon7keyswap
+name=Axon 7 Button Swap for LOS15.1
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Rarris
+description=Change back and recent buttons based on @kevte89's files. Made for personal use.

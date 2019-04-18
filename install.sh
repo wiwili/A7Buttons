@@ -51,6 +51,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/vendor/usr/keylayout
 "
 
 ##########################################################################################
@@ -123,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "   Swap Menu and Back Buttons   "
   ui_print "*******************************"
 }
 
